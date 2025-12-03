@@ -17,13 +17,6 @@ Experiment with security research & ethical hacking concepts
 
 I’m always working on something new — usually a mix of AI, automation, and high-impact tools.
 
-🛠️ Tech Stack
-
-Languages: Python, JavaScript, Kotlin, Bash, SQL
-Frameworks/Tools: Flask, Django, Selenium, Node.js, Docker, Kubernetes, Vagrant, Ansible
-Cloud: AWS, Azure
-AI/ML: scikit-learn, TensorFlow, OpenCV, NLP, model deployment
-Security: OWASP concepts, XSS practice, Burp Suite, recon scripts
 
 📂 Projects I Build
 
