@@ -1,4 +1,4 @@
-#👋 Hey, I’m Minahil
+# 👋 Hey, I’m Minahil
 
 I’m deep into building software, automation, and AI-driven solutions.
 Right now I’m focused on leveling up across backend engineering, machine learning, cloud, and cybersecurity — and shipping projects that actually solve problems.
