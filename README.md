@@ -16,21 +16,3 @@ Explore cloud-native tech (Docker, K8s, AWS, Azure)
 Experiment with security research & ethical hacking concepts
 
 I’m always working on something new — usually a mix of AI, automation, and high-impact tools.
-
-
-📂 Projects I Build
-
-Automation bots that remove boring manual work
-
-ML systems (regression, classification, CV, NLP)
-
-Full-stack platforms with authentication + dashboards
-
-Cloud-deployed apps and microservices
-
-Security testing tools & recon utilities
-
-🎯 Current Focus
-
-Sharpening engineering depth, building reusable systems, and creating products that scale.
-Everything I build pushes me closer to launching impactful tech ventures.
